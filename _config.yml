@@ -21,10 +21,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://hongyousan.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'HONGYOUSAN'
+description: '红有三大量收购正版模型玩具'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i3/2710706468/O1CN019ZXous1xeOUxVpEr8_!!2710706468.jpg"
 
@@ -34,26 +34,27 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: 首页
   url: /
-- title: About
+- title: 关于
   url: /about/
-- title: Blog
+- title: 联系
+  url: /contact/
+- title: 资讯
   url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: 返回顶部↑Back to top
   url: "#top"
 
 # Collections
 collections:
   posts:
-    title: Posts
+    title: 我们的近期动态
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
+    description: "请联系我们的QQ：191 676 0"
+    feature_text: 
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
