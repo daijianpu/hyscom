@@ -1,6 +1,6 @@
 ---
 title: 红有三
-feature_image: "https://img.alicdn.com/imgextra/i4/2710706468/O1CN01h8oyg41xeOV0hl0F3_!!2710706468.jpg"
+feature_image: 
 feature_text: 
 ---
 我们大量收购正版模型玩具，请联系我们获得帮助！
