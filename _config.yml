@@ -41,7 +41,7 @@ navigation_header:
 - title: 联系
   url: /contact/
 - title: 资讯
-  url: /blog/
+  url: /info/
 
 # Footer nav
 navigation_footer:
