@@ -2,6 +2,7 @@
 title: 关于
 ---
 <p>红有三</p>
+<hr style="border-color: silver"/>
 <p>www.hongyousan.com</p>
 <p>我们大规模的收购万代BANDAI的正版产品：</p>
 <p>目前仅收购假面骑士和奥特曼这2个系列的周边。</p>
