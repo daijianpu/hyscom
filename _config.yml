@@ -40,8 +40,6 @@ navigation_header:
   url: /about/
 - title: 联系
   url: /contact/
-- title: 收购
-  url: /info/
 
 # Footer nav
 navigation_footer:
@@ -53,7 +51,7 @@ collections:
   posts:
     title: 以下是我们的近期动态
     output: true
-    description: "请联系我们的客服QQ：191 676 0"
+    description: "请联系我们的微信/QQ：19 16 760"
     feature_text: 
     feature_image: https://img.alicdn.com/imgextra/i4/2710706468/O1CN01D7U5171xeOV7VFzxe_!!2710706468.jpg
 
