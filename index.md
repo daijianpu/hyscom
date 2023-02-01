@@ -1,7 +1,7 @@
 ---
 title: 红有三
 feature_image: 
-feature_text: www.hongyousan.com
+feature_text:
 ---
 <p>我们大量收购BANDAI万代、LEGO乐高的模型玩具。</p>
 <p>也收购BANDAI万代的破解和第三方补件(盗版不收)。</p>
